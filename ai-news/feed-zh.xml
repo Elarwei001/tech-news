@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI News Digest by Alex Chen (中文)</title>
+    <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/zh</link>
+    <description>AI 行业每日新闻摘要，覆盖 Anthropic、OpenAI 等公司的最新动态和研究，附带资深科技记者 Alex Chen 的深度分析。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 22 Mar 2026 20:00:00 +0800</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-zh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 行业日报 - 2026-03-22</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-22.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-22.md</guid>
+      <pubDate>Sun, 22 Mar 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI 收购 Astral，这不只是一笔收购，而是 AI 公司向开发者基础设施延伸的信号弹。当模型能力趋同，生态系统成为新战场。</description>
+    </item>
+  </channel>
+</rss>

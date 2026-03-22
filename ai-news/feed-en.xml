@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI News Digest by Alex Chen (English)</title>
+    <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/en</link>
+    <description>Daily AI industry news digest covering Anthropic, OpenAI, and other major players, with in-depth analysis from veteran tech journalist Alex Chen.</description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 22 Mar 2026 20:00:00 +0800</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Industry Daily - March 22, 2026</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-22.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-22.md</guid>
+      <pubDate>Sun, 22 Mar 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI's acquisition of Astral isn't just a deal—it's a signal that AI companies are extending into developer infrastructure. As model capabilities converge, ecosystems become the new battleground.</description>
+    </item>
+  </channel>
+</rss>
