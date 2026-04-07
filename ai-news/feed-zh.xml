@@ -5,8 +5,22 @@
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/zh</link>
     <description>AI 行业每日新闻摘要，覆盖 Anthropic、OpenAI 等公司的最新动态和研究，附带资深科技记者 Alex Chen 的深度分析。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Mar 2026 20:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-zh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 行业日报 - 2026-04-07</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-04-07.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-04-07.md</guid>
+      <pubDate>Mon, 07 Apr 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI 完成 $1220 亿融资，估值 $8520 亿。Anthropic 发现 Claude 内部形成功能性"情绪"表征。Google 发布 Gemma 4 Apache 2.0 开源。资金、安全、开放三轴同时推进。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-03-30</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-30.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-30.md</guid>
+      <pubDate>Sun, 30 Mar 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI 公开 Model Spec 设计哲学。推出安全漏洞悬赏。Anthropic 经济指数显示老用户用得更好。DeepMind 提出认知框架量化 AGI。</description>
+    </item>
     <item>
       <title>AI 行业日报 - 2026-03-22</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-22.md</link>

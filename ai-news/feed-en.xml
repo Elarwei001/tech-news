@@ -5,8 +5,22 @@
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/en</link>
     <description>Daily AI industry news digest covering Anthropic, OpenAI, and other major players, with in-depth analysis from veteran tech journalist Alex Chen.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 22 Mar 2026 20:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Industry Daily - April 7, 2026</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-04-07.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-04-07.md</guid>
+      <pubDate>Mon, 07 Apr 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI closes $122B at $852B valuation. Anthropic discovers functional "emotions" in Claude that causally drive behavior. Google releases Gemma 4 under Apache 2.0. Money, safety, openness—the three axes of AI competition all move forward.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - March 30, 2026</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-30.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-30.md</guid>
+      <pubDate>Sun, 30 Mar 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI's Model Spec explained. Safety Bug Bounty launched. Anthropic's Economic Index shows experienced users unlock more value. DeepMind proposes cognitive framework for measuring AGI.</description>
+    </item>
     <item>
       <title>AI Industry Daily - March 22, 2026</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-22.md</link>
