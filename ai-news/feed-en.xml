@@ -5,8 +5,15 @@
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/en</link>
     <description>Daily AI industry news digest covering Anthropic, OpenAI, and other major players, with in-depth analysis from veteran tech journalist Alex Chen.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Apr 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Industry Daily - April 15, 2026</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-15.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-15.md</guid>
+      <pubDate>Wed, 15 Apr 2026 08:00:00 +0800</pubDate>
+      <description>Anthropic used nine Claude copies to automate alignment research, pushing PGR from 0.23 to 0.97. OpenAI expanded Trusted Access for Cyber and launched GPT-5.4-Cyber. Google used AI Impact Summit to deepen infrastructure, science, and government partnerships.</description>
+    </item>
     <item>
       <title>AI Industry Daily - April 7, 2026</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-04-07.md</link>
