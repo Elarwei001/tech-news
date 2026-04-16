@@ -5,8 +5,15 @@
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/zh</link>
     <description>AI 行业每日新闻摘要，覆盖 Anthropic、OpenAI 等公司的最新动态和研究，附带资深科技记者 Alex Chen 的深度分析。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 15 Apr 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-zh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 行业日报 - 2026-04-16</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-16.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-16.md</guid>
+      <pubDate>Thu, 16 Apr 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI 为 Agents SDK 增加原生 harness、sandbox 与 workspace 抽象，agent 基础设施开始标准化。Anthropic 的 AAR 研究展示模型可加速部分对齐研究。Google 持续推进 Gemma 4，NVIDIA 则把 AI 基础设施竞争重心转向 cost per token。</description>
+    </item>
     <item>
       <title>AI 行业日报 - 2026-04-15</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-15.md</link>

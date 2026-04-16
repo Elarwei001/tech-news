@@ -5,8 +5,15 @@
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/en</link>
     <description>Daily AI industry news digest covering Anthropic, OpenAI, and other major players, with in-depth analysis from veteran tech journalist Alex Chen.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 Apr 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Industry Daily - April 16, 2026</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-16.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-16.md</guid>
+      <pubDate>Thu, 16 Apr 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI added native harness, sandbox, memory, and workspace abstractions to the Agents SDK, pushing agent infrastructure toward standardization. Anthropic's AAR research showed models may accelerate parts of alignment work. Google kept strengthening Gemma 4, while NVIDIA reframed infrastructure competition around cost per token.</description>
+    </item>
     <item>
       <title>AI Industry Daily - April 15, 2026</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-15.md</link>
@@ -19,7 +26,7 @@
       <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-04-07.md</link>
       <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-04-07.md</guid>
       <pubDate>Mon, 07 Apr 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI closes $122B at $852B valuation. Anthropic discovers functional "emotions" in Claude that causally drive behavior. Google releases Gemma 4 under Apache 2.0. Money, safety, openness—the three axes of AI competition all move forward.</description>
+      <description>OpenAI closes $122B at $852B valuation. Anthropic discovers functional "emotions" in Claude that causally drive behavior. Google releases Gemma 4 under Apache 2.0. Money, safety, openness, the three axes of AI competition all move forward.</description>
     </item>
     <item>
       <title>AI Industry Daily - March 30, 2026</title>
@@ -33,7 +40,7 @@
       <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-22.md</link>
       <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-22.md</guid>
       <pubDate>Sun, 22 Mar 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI's acquisition of Astral isn't just a deal—it's a signal that AI companies are extending into developer infrastructure. As model capabilities converge, ecosystems become the new battleground.</description>
+      <description>OpenAI's acquisition of Astral isn't just a deal, it's a signal that AI companies are extending into developer infrastructure. As model capabilities converge, ecosystems become the new battleground.</description>
     </item>
   </channel>
 </rss>
