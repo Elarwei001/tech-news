@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-20",
+  "alex": {
+    "score": 92,
+    "status": "APPROVE",
+    "notes": [
+      "头条选题清晰，把 Anthropic 的研究与产品更新放在同一战略框架下解读，有新闻判断力。",
+      "事实引用均来自官方一手来源，核心数字和产品能力描述基本准确。",
+      "分析部分超越转述，指出竞争重心从模型性能转向工作流系统，成立。",
+      "可继续提升之处是给 Google 和 NVIDIA 的部分再补一层产业对照，但不影响发布。"
+    ]
+  },
+  "bob": {
+    "score": 91,
+    "status": "APPROVE",
+    "notes": [
+      "结构完整，中英版本一致性良好。",
+      "头条角度鲜明，不是机械罗列新闻。",
+      "Anthropic 头条与翻译链接设置正确。",
+      "Meta 页面抓取失败已明确披露，处理符合一手来源规则。"
+    ]
+  },
+  "alice": {
+    "status": "DONE",
+    "notes": [
+      "已完成头条研究原文完整中文翻译。"
+    ]
+  },
+  "colly": {
+    "score": 93,
+    "status": "PASS",
+    "completeness": 100,
+    "notes": [
+      "译文完整，未见关键段落漏译。",
+      "术语如 scalable oversight、weak-to-strong supervision、reward hacking 保留并做了中文解释。",
+      "格式规范，可直接发布。"
+    ]
+  }
+}
