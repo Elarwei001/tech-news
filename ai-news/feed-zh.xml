@@ -5,8 +5,15 @@
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/zh</link>
     <description>AI 行业每日新闻摘要，覆盖 Anthropic、OpenAI 等公司的最新动态和研究，附带资深科技记者 Alex Chen 的深度分析。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-zh.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 行业日报 - 2026-04-22</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-22.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-22.md</guid>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI 宣布 Codex 周活超 400 万，并联手全球系统集成商推进企业部署，开发代理竞争进入组织流程阶段。Anthropic 持续推进自动化对齐研究，Google 同时押注开放模型与可控语音接口，NVIDIA 则围绕 agent 的运行时、安全与推理栈补齐基础设施叙事。</description>
+    </item>
     <item>
       <title>AI 行业日报 - 2026-04-16</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-16.md</link>
@@ -34,13 +41,6 @@
       <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-30.md</guid>
       <pubDate>Sun, 30 Mar 2026 08:00:00 +0800</pubDate>
       <description>OpenAI 公开 Model Spec 设计哲学。推出安全漏洞悬赏。Anthropic 经济指数显示老用户用得更好。DeepMind 提出认知框架量化 AGI。</description>
-    </item>
-    <item>
-      <title>AI 行业日报 - 2026-03-22</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-22.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-22.md</guid>
-      <pubDate>Sun, 22 Mar 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI 收购 Astral，这不只是一笔收购，而是 AI 公司向开发者基础设施延伸的信号弹。当模型能力趋同，生态系统成为新战场。</description>
     </item>
   </channel>
 </rss>

@@ -5,8 +5,15 @@
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/en</link>
     <description>Daily AI industry news digest covering Anthropic, OpenAI, and other major players, with in-depth analysis from veteran tech journalist Alex Chen.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 Apr 2026 08:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:00:00 +0800</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-en.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI Industry Daily - April 22, 2026</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-22.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-22.md</guid>
+      <pubDate>Wed, 22 Apr 2026 08:00:00 +0800</pubDate>
+      <description>OpenAI says Codex has passed 4 million weekly active developers and is partnering with global systems integrators to push enterprise deployment, marking a shift from personal coding assistance to organizational execution. Anthropic keeps advancing automated alignment research, Google is betting on both open models and controllable voice interfaces, and NVIDIA is building the runtime, security, and inference story for enterprise agents.</description>
+    </item>
     <item>
       <title>AI Industry Daily - April 16, 2026</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-16.md</link>
@@ -34,13 +41,6 @@
       <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-30.md</guid>
       <pubDate>Sun, 30 Mar 2026 08:00:00 +0800</pubDate>
       <description>OpenAI's Model Spec explained. Safety Bug Bounty launched. Anthropic's Economic Index shows experienced users unlock more value. DeepMind proposes cognitive framework for measuring AGI.</description>
-    </item>
-    <item>
-      <title>AI Industry Daily - March 22, 2026</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-22.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-22.md</guid>
-      <pubDate>Sun, 22 Mar 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI's acquisition of Astral isn't just a deal, it's a signal that AI companies are extending into developer infrastructure. As model capabilities converge, ecosystems become the new battleground.</description>
     </item>
   </channel>
 </rss>
