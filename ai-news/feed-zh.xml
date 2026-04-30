@@ -1,12 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>AI News Digest by Alex Chen (中文)</title>
     <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/zh</link>
     <description>AI 行业每日新闻摘要，覆盖 Anthropic、OpenAI 等公司的最新动态和研究，附带资深科技记者 Alex Chen 的深度分析。</description>
     <language>zh-CN</language>
+    <item>
+      <title>AI 行业日报 - 2026-04-30</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-30.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-30.md</guid>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <description>Anthropic 用 BioMysteryBench 测 Claude 的生物信息学研究能力，OpenAI 继续推进多云与 agent 入口，Google DeepMind 和 NVIDIA 从科研合作与基础设施两端加速 AI 工作系统化。</description>
+    </item>
     <lastBuildDate>Wed, 22 Apr 2026 08:00:00 +0800</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-zh.xml" rel="self" type="application/rss+xml"/>
+    <ns0:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-zh.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI 行业日报 - 2026-04-22</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-22.md</link>
