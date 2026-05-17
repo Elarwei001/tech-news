@@ -1,53 +1,220 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
     <title>AI News Digest by Alex Chen (中文)</title>
-    <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/zh</link>
-    <description>AI 行业每日新闻摘要，覆盖 Anthropic、OpenAI 等公司的最新动态和研究，附带资深科技记者 Alex Chen 的深度分析。</description>
+    <link>https://github.com/Elarwei001/tech-news/tree/master/zh</link>
+    <description>每日 AI 行业新闻摘要与分析</description>
     <language>zh-CN</language>
+    <lastBuildDate>Sun, 17 May 2026 12:39:30 GMT</lastBuildDate>
+    <item>
+      <title>AI 行业日报 - 2026-05-17</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-17.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-17.md</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得注意的信号，是头部 AI 公司开始更明确地把自己从“模型提供商”推进成“现实系统运营者”。OpenAI 往企业部署和个人金融伸，Anthropic 往公益和公共服务场景伸，Google DeepMind 往科学与基础设施优化伸，NVIDIA 则继续定义 agent 时代的算力范式。竞争中心已经越来越像“谁能把 AI 接进真实世界关键系统”。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-16</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-16.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-16.md</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是某家又发了一个更强模型，而是头部公司几乎同时把 AI 往三个更深的方向推, 一是更强的个人上下文与垂直场景渗透, 二是更强的安全与可解释训练, 三是更强的基础设施与算法自动化。这说明 2026 年的竞争已经不只是模型分数, 而是在争夺谁能定义 AI 作为“长期工作层”的形态。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-15</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-15.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-15.md</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <description>个人金融是比普通 productivity 更敏感的场景。它要求模型不仅会总结，还要理解现金流、风险、目标、隐私和责任边界。OpenAI 把 ChatGPT 推到这里，说明默认 AI 助手正在从“帮我做事”进入“陪我做决定”。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-14</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-14.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-14.md</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <description>这不是简单的移动端入口，而是 agent 工作节奏的变化。长任务 agent 经常需要人类在中间给许可、纠偏和补上下文；手机端把这些小决策从桌面解放出来，让 agent 更像持续协作对象。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-13</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-13.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-13.md</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <description>这是很实在的基础设施新闻。coding agent 要成为日常工具，就不能只服务 macOS/Linux 高阶用户，也不能靠“相信模型”来保护机器。Windows sandbox 是 Codex 走向主流开发者的必要门槛。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-12</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-12.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-12.md</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <description>它的价值不在“谁做出最大模型”，而在展示约束如何产生创新。当前行业很容易被超大模型叙事吸走注意力，但真实部署同样需要小、快、便宜、可验证的系统。Parameter Golf 把这种工程审美重新放回桌面。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-11</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-11.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-11.md</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <description>这是 OpenAI 对企业 AI 最现实的一次表态：模型能力只是起点，真正难的是组织改造。它也意味着前沿模型公司正在靠近咨询、系统集成和业务流程重构这些传统上不属于模型实验室的工作。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-10</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-10.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-10.md</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>这说明 agent 产品竞争会越来越像基础设施竞争。谁能把模型、工具、上下文、权限和观测性组织成稳定系统，谁就更接近企业部署；只展示 demo 的时代会越来越短。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-09</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-09.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-09.md</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <description>这一天适合做趋势日，而不是硬凑新闻日。agent 安全的竞争正在分成两层：外层是 sandbox、policy、approval 和 audit log；内层是模型在压力场景下的价值推理。真正可部署的 agent 需要两层同时成立。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-08</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-08.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-08.md</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <description>这条新闻的关键不在单个指标，而在训练哲学变化。agent 会面对开放任务和利益冲突，如果模型只学会表面规则，压力场景里容易破功；让模型形成可泛化的理由，才更接近可长期部署的安全能力。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-07</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-07.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-07.md</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <description>这条新闻值得做头条，因为它把可解释性从“研究者看懂特征”推进到“组织能否审计模型内部状态”。如果 AI agent 要进入长期任务和高后果场景，只看输出已经不够，行业需要更接近运行时的审计工具。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-06</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-06.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-06.md</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的变化，不是单一模型又涨了多少分，而是 OpenAI 开始同时重写默认助手、商业化接口与安全边界，这说明头部厂商正在把 AI 从“一个会回答问题的模型”推向“一个会长期承载个人上下文、广告交易与高价值工作流的操作层”。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-05</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-05.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-05.md</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的信号，是头部厂商开始把 AI 竞争拉向更底层也更现实的系统能力，谁能把语音时延压到接近“无感”、谁能让企业在既有云环境里接入 agent、谁能让分布式训练和多模态执行真正跑得稳，谁就更接近下一阶段的基础设施入口。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-04</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-04.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-04.md</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是某一家又发布了更大的模型，而是头部厂商都在把竞争重心推向“谁更适合进入真实工作流、谁更能稳定托付”的系统级能力，模型性能正在越来越快地让位于可部署性、安全性与持续运行能力。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-03</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-03.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-03.md</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是某一家又发布了更大的模型，而是头部厂商都在把竞争重心推向“谁更适合进入真实工作流、谁更能稳定托付”的系统级能力，模型性能正在越来越快地让位于可部署性、安全性与持续运行能力。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-02</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-02.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-02.md</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的信号，不是单点模型能力再创新高，而是头部厂商都在把竞争重心推向“可托付、可部署、可持续运行”的真实系统能力，谁更稳、谁更容易进入组织核心流程，正在比谁更会答题更重要。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-05-01</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-01.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-05-01.md</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是哪家公司又发了一个更大的模型，而是头部厂商开始更明确地把 AI 竞争拉向“真实工作里的可靠性”。Anthropic 在研究用户如何向 Claude 寻求人生建议，OpenAI 在补账户安全和企业分发，Google DeepMind 在推进开放模型与分布式训练韧性，NVIDIA 则继续把多模态 agent 执行层做成开放基础设施。模型能力还重要，但可托付性、可部署性和系统韧性，已经更像真正的主战场。</description>
+    </item>
     <item>
       <title>AI 行业日报 - 2026-04-30</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-30.md</link>
       <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-30.md</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anthropic 用 BioMysteryBench 测 Claude 的生物信息学研究能力，OpenAI 继续推进多云与 agent 入口，Google DeepMind 和 NVIDIA 从科研合作与基础设施两端加速 AI 工作系统化。</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是单一新模型刷榜，而是头部厂商正在把 AI 更明确地做成可嵌入企业云、研究和开发流程的“工作系统”。OpenAI 继续扩大多云入口，Anthropic 开始把 Claude 的科学能力放到更接近真实研究任务的 benchmark 上验证，Google DeepMind 与 NVIDIA 则分别从国家级科研合作和底层训练/执行基础设施两端推进。AI 竞争正在进一步从模型能力，转向系统部署、组织流程和长期可用性。</description>
     </item>
-    <lastBuildDate>Wed, 22 Apr 2026 08:00:00 +0800</lastBuildDate>
-    <ns0:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-zh.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 行业日报 - 2026-04-29</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-29.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-29.md</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的信号，是 OpenAI 正在同时改写两条关键边界，一条是云分发边界，另一条是 agent 工作流边界。前者体现在与 AWS、微软的合作重组，后者体现在 Symphony 这类 agent 编排方法论的外溢。与此同时，Anthropic、Google DeepMind 和 NVIDIA 也都在把“模型能力”继续推向“可部署系统”。AI 行业正在越来越明显地进入平台化、组织化和基础设施化的竞争阶段。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-04-28</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-28.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-28.md</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是哪家又发了一个更强模型，而是头部公司几乎都在把 AI 重新包装成“组织可部署的工作系统”。OpenAI 重写与微软的合作边界，并开源面向 coding agents 的编排规范；Google DeepMind 在研究 agent 与分布式训练底座上继续推进；NVIDIA 则持续把 agent 落地与基础设施叙事绑定。模型竞争正在更明显地让位于系统竞争。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-04-27</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-27.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-27.md</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得注意的，不是单一模型又涨了多少分，而是头部公司都在把 AI 从“会回答”推向“能交付工作”。OpenAI 让 GPT-5.5 正式进入 API，Google 把 autonomous research agent 做成可编排产品，Anthropic 则继续沿着 agent 对齐与设计工作流双线推进。行业竞争正在从模型能力本身，转向谁能把能力稳定地嵌进组织的实际生产系统。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-04-26</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-26.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-26.md</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得注意的，是头部 AI 公司都在把“模型更强”翻译成“工作真的能被接住”。OpenAI 继续强化 GPT-5.5 的执行闭环，Anthropic 把视觉创作直接产品化，Google 一边推进开放模型，一边重写大规模训练的韧性逻辑，NVIDIA 则把 agent、训练优化和云基础设施绑成一整套工程叙事。行业竞争越来越像平台与工作系统之争，而不只是 benchmark 之争。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-04-25</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-25.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-25.md</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得注意的，不是某一家单点冲榜，而是头部公司开始把“AI 真正进入工作流”这件事做得更具体了。OpenAI 继续把 GPT-5.5 推向更强执行力，Anthropic 开始把设计工作直接产品化，Google 同时押注开放模型与分布式训练韧性，NVIDIA 则继续把 agent 基础设施和训练工程打成可复用栈。行业竞争正在从模型能力本身，转向谁能更完整地交付“可执行、可部署、可治理”的 AI 系统。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-04-24</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-24.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-24.md</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天真正拉开差距的，不只是模型分数又涨了一点，而是头部厂商开始同时推进三条线：更强的通用 agent 模型、更可审计的安全边界，以及更贴近真实部署条件的基础设施。OpenAI 用 GPT-5.5 把“能持续完成复杂任务”再次往前推，Anthropic继续沉淀 AI 对劳动力市场的连续观察，Google DeepMind 把分布式训练和开放模型两条路线一起压实，NVIDIA 则继续把训练工程优势产品化。</description>
+    </item>
+    <item>
+      <title>AI 行业日报 - 2026-04-23</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-23.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-23.md</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的变化，是 AI 厂商开始把“agent 能做什么”进一步收束成“组织如何真正部署 agent”。OpenAI 一天内同时发布 workspace agents 与 Privacy Filter，前者在推企业级执行层，后者在补隐私基础设施。Anthropic 则把经济影响研究做成月度持续观测机制，Google 继续用开放模型与语音接口卡位开发者入口，NVIDIA 则把训练与稀疏计算栈继续往工程化深水区推进。</description>
+    </item>
     <item>
       <title>AI 行业日报 - 2026-04-22</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-22.md</link>
       <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-22.md</guid>
-      <pubDate>Wed, 22 Apr 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI 宣布 Codex 周活超 400 万，并联手全球系统集成商推进企业部署，开发代理竞争进入组织流程阶段。Anthropic 持续推进自动化对齐研究，Google 同时押注开放模型与可控语音接口，NVIDIA 则围绕 agent 的运行时、安全与推理栈补齐基础设施叙事。</description>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的信号，是 AI 产业的竞争重心继续从“模型演示”转向“真实工作系统”。OpenAI 正把 Codex 向企业级开发执行层推进，Anthropic 在自动化对齐研究上继续下注，Google 用 Gemma 4 和 Flash TTS 同时覆盖开放模型与语音接口，NVIDIA 则从营销、推理和安全三个层面补齐 agent 时代的基础设施叙事。</description>
     </item>
     <item>
-      <title>AI 行业日报 - 2026-04-16</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-16.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-16.md</guid>
-      <pubDate>Thu, 16 Apr 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI 为 Agents SDK 增加原生 harness、sandbox 与 workspace 抽象，agent 基础设施开始标准化。Anthropic 的 AAR 研究展示模型可加速部分对齐研究。Google 持续推进 Gemma 4，NVIDIA 则把 AI 基础设施竞争重心转向 cost per token。</description>
+      <title>AI 行业日报 - 2026-04-21</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-21.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-21.md</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的主线，是头部公司不再只比“模型更强”，而是在争夺更完整的专业工作系统。OpenAI 把 Codex 从编码助手推向可长期运行的开发代理，Anthropic 继续推进自动化对齐研究，Google 以 Gemma 4 压低 agent 的部署门槛，NVIDIA 则把 agent 时代的安全与边缘部署问题摆上桌面。</description>
     </item>
     <item>
-      <title>AI 行业日报 - 2026-04-15</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-15.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-15.md</guid>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0800</pubDate>
-      <description>Anthropic 用 9 个 Claude 副本把对齐研究自动化，PGR 从 0.23 拉到 0.97。OpenAI 扩大 Trusted Access for Cyber 并推出 GPT-5.4-Cyber。Google 在 AI Impact Summit 强推基础设施、科学和政府合作。</description>
+      <title>AI 行业日报 - 2026-04-20</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-20.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-20.md</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是某家模型分数又涨了多少，而是头部公司正在把 AI 明确推入可持续、可治理、可交付的专业工作流。Anthropic 在同时推进“让模型参与对齐研究”和“让模型进入设计交付链路”，OpenAI 则在生命科学和开发者工具上继续做平台化，Google 和 NVIDIA 也在分别强化端侧 agent 与 agent 基础设施。</description>
     </item>
     <item>
-      <title>AI 行业日报 - 2026-04-07</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-04-07.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-04-07.md</guid>
-      <pubDate>Mon, 07 Apr 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI 完成 $1220 亿融资，估值 $8520 亿。Anthropic 发现 Claude 内部形成功能性"情绪"表征。Google 发布 Gemma 4 Apache 2.0 开源。资金、安全、开放三轴同时推进。</description>
+      <title>AI 行业日报 - 2026-04-19</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-19.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-19.md</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得关注的，不是单一模型性能又涨了多少，而是头部厂商正把 AI 明确嵌进高价值专业工作流里。Anthropic 在尝试让模型自己做对齐研究，OpenAI 则把生命科学模型做成带工具链和准入机制的行业基础设施，这说明 AI 竞争正在从“更强模型”走向“更强专业生产力系统”。</description>
     </item>
     <item>
-      <title>AI 行业日报 - 2026-03-30</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-30.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/zh/2026-03-30.md</guid>
-      <pubDate>Sun, 30 Mar 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI 公开 Model Spec 设计哲学。推出安全漏洞悬赏。Anthropic 经济指数显示老用户用得更好。DeepMind 提出认知框架量化 AGI。</description>
+      <title>AI 行业日报 - 2026-04-18</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-18.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/zh/2026-04-18.md</guid>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+      <description>今天最值得注意的变化，不是哪家又多发了一个模型，而是头部厂商开始把 AI 从“会生成”进一步推向“会交付”，不管是 Anthropic 的设计生成工作流，OpenAI 的垂直科研模型，还是 Cloudflare 的统一推理层，本质上都在争夺真实生产入口。</description>
     </item>
   </channel>
 </rss>

@@ -1,53 +1,220 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
   <channel>
     <title>AI News Digest by Alex Chen (English)</title>
-    <link>https://github.com/Elarwei001/tech-news/tree/master/ai-news/en</link>
-    <description>Daily AI industry news digest covering Anthropic, OpenAI, and other major players, with in-depth analysis from veteran tech journalist Alex Chen.</description>
+    <link>https://github.com/Elarwei001/tech-news/tree/master/en</link>
+    <description>Daily AI industry news digest and analysis</description>
     <language>en-US</language>
+    <lastBuildDate>Sun, 17 May 2026 12:39:30 GMT</lastBuildDate>
+    <item>
+      <title>AI Industry Daily - 2026-05-17</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-17.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-17.md</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <description>: The clearest signal today is that frontier AI companies are moving more explicitly from being model providers to being operators inside real systems. OpenAI is pushing into enterprise deployment and personal finance, Anthropic is pushing into public-interest and service delivery use cases, Google DeepMind is pushing into science and infrastructure optimization, and NVIDIA is still defining the compute playbook for the agent era. The center of competition increasingly looks like “who can wire AI into the critical systems of the real world.”</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-16</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-16.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-16.md</guid>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <description>: The most important development today is not that one company released another stronger model. It is that frontier players are pushing AI deeper along three fronts at once: into richer personal context and vertical workflows, into stronger safety and interpretability training, and into infrastructure and algorithmic self-optimization. That suggests the 2026 contest is no longer just about model scores, but about who gets to define AI as a long-running work layer.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-15</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-15.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-15.md</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <description>: Personal finance is more sensitive than ordinary productivity. It requires the model to understand cash flow, risk, goals, privacy, and responsibility boundaries, not just summarize information. By moving ChatGPT here, OpenAI is pushing the default AI assistant from “help me do things” toward “help me decide.”</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-14</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-14.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-14.md</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <description>: This is not just a mobile entry point; it changes the rhythm of agent work. Long-running agents often need humans to approve, redirect, or add context mid-task. Mobile access moves those small decisions away from the desktop and makes the agent more like a persistent collaborator.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-13</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-13.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-13.md</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <description>: This is practical infrastructure news. A coding agent cannot become a daily tool if it only works well for macOS/Linux power users, and it cannot protect machines by “trusting the model.” A Windows sandbox is a necessary step toward mainstream developer adoption.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-12</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-12.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-12.md</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <description>: Its value is not in building the biggest model, but in showing how constraints create innovation. The industry is easily pulled toward giant-model narratives, but real deployment also needs systems that are small, fast, cheap, and verifiable. Parameter Golf puts that engineering taste back on the table.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-11</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-11.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-11.md</guid>
+      <pubDate>Mon, 11 May 2026 00:00:00 GMT</pubDate>
+      <description>: This is one of OpenAI’s clearest acknowledgments of enterprise reality: model capability is only the starting point; organizational change is the hard part. It also moves frontier labs toward consulting, systems integration, and workflow redesign work that traditionally sat outside model labs.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-10</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-10.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-10.md</guid>
+      <pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+      <description>: This means agent-product competition will increasingly look like infrastructure competition. The winner is whoever can organize models, tools, context, permissions, and observability into a stable system. The era of demos alone is getting shorter.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-09</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-09.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-09.md</guid>
+      <pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+      <description>: This is better treated as a trend day than a forced news day. Agent safety is splitting into two layers: the outer layer of sandboxes, policies, approvals, and audit logs; and the inner layer of value reasoning under pressure. Deployable agents need both.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-08</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-08.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-08.md</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <description>: The important point is not one metric, but a shift in training philosophy. Agents face open-ended tasks and conflicts of interest. If models only learn surface rules, they can fail under pressure; teaching generalizable reasons is closer to safety that can survive deployment.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-07</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-07.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-07.md</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <description>: This leads because it moves interpretability from “researchers understanding features” toward “organizations auditing internal model states.” If AI agents are going to operate in long-running, high-consequence settings, output review is not enough; the industry needs tools closer to runtime inspection.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-06</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-06.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-06.md</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <description>: The most important shift today is not that a single model got a bit better, but that OpenAI is simultaneously rewriting the default assistant, the monetization layer, and the security boundary around identity. That is a strong signal that frontier AI companies are turning AI from “a model that answers questions” into an operating layer that carries personal context, commercial transactions, and high-value work.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-05</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-05.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-05.md</guid>
+      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+      <description>: The clearest signal today is that leading AI companies are competing less on headline model spectacle and more on the hard systems layer, who can make voice latency feel invisible, who can plug agents into existing enterprise environments, and who can keep distributed training and multimodal execution stable at scale.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-04</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-04.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-04.md</guid>
+      <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+      <description>: The most important development today is not that one company shipped a bigger model. It is that leading vendors are increasingly competing on who can become trusted, deployable, and durable inside real workflows. Raw model quality is steadily giving way to system-level fitness.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-03</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-03.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-03.md</guid>
+      <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+      <description>: The most important development today is not that one company shipped a bigger model. It is that leading vendors are increasingly competing on who can become trusted, deployable, and durable inside real workflows. Raw model quality is steadily giving way to system-level fitness.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-02</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-02.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-02.md</guid>
+      <pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+      <description>: The biggest story today is not another incremental jump in model performance. It is that leading AI companies are increasingly competing on trustworthiness, deployability, and operational resilience in real-world systems. In the next phase, being easier to trust and easier to integrate may matter more than being marginally better at answering prompts.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-05-01</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-01.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-05-01.md</guid>
+      <pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+      <description>: The biggest story today is not another leaderboard jump. It is that major AI companies are increasingly competing on reliability in real-world work. Anthropic is studying how people ask Claude for life guidance, OpenAI is strengthening account security and enterprise distribution, Google DeepMind is pushing open models and resilient distributed training, and NVIDIA keeps building the open execution layer for multimodal agents. Model capability still matters, but trustworthiness, deployability, and system resilience now look much more like the real battlefield.</description>
+    </item>
     <item>
       <title>AI Industry Daily - 2026-04-30</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-30.md</link>
       <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-30.md</guid>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <description>Anthropic tests Claude on BioMysteryBench for more realistic scientific workflows, while OpenAI, Google DeepMind, and NVIDIA keep pushing AI deeper into enterprise, research, and infrastructure systems.</description>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+      <description>: The most important development today is not a single new model release, but the way leading AI companies are turning AI more explicitly into deployable work systems for clouds, research, and enterprise workflows. OpenAI is still expanding multi-cloud reach, Anthropic is testing Claude on tasks that look more like real scientific work, and Google DeepMind plus NVIDIA are pushing from both the national-science layer and the infrastructure layer. Competition is shifting further from model capability toward system deployment, workflow integration, and long-term operability.</description>
     </item>
-    <lastBuildDate>Wed, 22 Apr 2026 08:00:00 +0800</lastBuildDate>
-    <ns0:link href="https://raw.githubusercontent.com/Elarwei001/tech-news/master/ai-news/feed-en.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AI Industry Daily - April 22, 2026</title>
+      <title>AI Industry Daily - 2026-04-29</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-29.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-29.md</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <description>: The most important signal today is that OpenAI is redrawing two key boundaries at once, the cloud distribution boundary and the agent workflow boundary. The first shows up in its restructuring across AWS and Microsoft, the second in the spillover of orchestration methods like Symphony. At the same time, Anthropic, Google DeepMind, and NVIDIA are all continuing to push from model capability toward deployable systems. The industry is moving more visibly into a phase of platform, workflow, and infrastructure competition.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-04-28</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-28.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-28.md</guid>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+      <description>: The most important story today is not that one company launched yet another stronger model. It is that leading AI companies are increasingly re-packaging AI as deployable organizational work systems. OpenAI is rewriting the boundaries of its partnership with Microsoft while open-sourcing an orchestration spec for coding agents. Google DeepMind is still pushing on both research-agent infrastructure and distributed training resilience. NVIDIA continues tying agent adoption to infrastructure and enterprise rollout. The market is shifting from model competition toward system competition.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily - 2026-04-27</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-27.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-27.md</guid>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <description>: The biggest story today is not that one model got incrementally better. It is that leading AI companies are all translating model capability into operational systems. OpenAI has now put GPT-5.5 into the API, Google is turning autonomous research agents into schedulable enterprise infrastructure, and Anthropic is pushing on both alignment automation and design workflow capture. The competitive line is shifting from raw model intelligence to who can deliver deployable work systems.</description>
+    </item>
+    <item>
+      <title>AI Industry Daily Digest - 2026-04-26</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-26.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-26.md</guid>
+      <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 26 Editor's Note : The biggest signal today is that leading AI companies are all trying to translate stronger models into work that actually gets done. OpenAI keeps sharpening GPT 5.5 as </description>
+    </item>
+    <item>
+      <title>AI Industry Daily Digest - 2026-04-25</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-25.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-25.md</guid>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 25 Editor's Note : The most important signal today is not that one company landed another benchmark jump. It is that leading AI firms are making AI feel more concrete inside real workflow</description>
+    </item>
+    <item>
+      <title>AI Industry Daily Digest - 2026-04-24</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-24.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-24.md</guid>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 24 Editor's Note : What is widening the gap now is not just another bump in model scores. The leading AI companies are advancing three tracks at once: stronger general purpose agent model</description>
+    </item>
+    <item>
+      <title>AI Industry Daily Digest - 2026-04-23</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-23.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-23.md</guid>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 23 Editor's Note : The biggest shift today is that AI vendors are narrowing the agent conversation from what agents can do to how organizations can actually deploy them. OpenAI released w</description>
+    </item>
+    <item>
+      <title>AI Industry Daily Digest - 2026-04-22</title>
       <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-22.md</link>
       <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-22.md</guid>
-      <pubDate>Wed, 22 Apr 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI says Codex has passed 4 million weekly active developers and is partnering with global systems integrators to push enterprise deployment, marking a shift from personal coding assistance to organizational execution. Anthropic keeps advancing automated alignment research, Google is betting on both open models and controllable voice interfaces, and NVIDIA is building the runtime, security, and inference story for enterprise agents.</description>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 22 Editor's Note : The strongest signal today is that AI competition keeps shifting from model demos to real work systems. OpenAI is pushing Codex deeper into the enterprise execution lay</description>
     </item>
     <item>
-      <title>AI Industry Daily - April 16, 2026</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-16.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-16.md</guid>
-      <pubDate>Thu, 16 Apr 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI added native harness, sandbox, memory, and workspace abstractions to the Agents SDK, pushing agent infrastructure toward standardization. Anthropic's AAR research showed models may accelerate parts of alignment work. Google kept strengthening Gemma 4, while NVIDIA reframed infrastructure competition around cost per token.</description>
+      <title>AI Industry Daily Digest - 2026-04-21</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-21.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-21.md</guid>
+      <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 21 Editor's Note : The clearest story today is that leading AI companies are no longer just competing on model strength. They are competing to own fuller professional work systems. OpenAI</description>
     </item>
     <item>
-      <title>AI Industry Daily - April 15, 2026</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-15.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-15.md</guid>
-      <pubDate>Wed, 15 Apr 2026 08:00:00 +0800</pubDate>
-      <description>Anthropic used nine Claude copies to automate alignment research, pushing PGR from 0.23 to 0.97. OpenAI expanded Trusted Access for Cyber and launched GPT-5.4-Cyber. Google used AI Impact Summit to deepen infrastructure, science, and government partnerships.</description>
+      <title>AI Industry Daily Digest - 2026-04-20</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-20.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-20.md</guid>
+      <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 20 Editor's Note : The most important development today is not another bump in benchmark scores. It is that leading companies are pushing AI deeper into professional workflows that are du</description>
     </item>
     <item>
-      <title>AI Industry Daily - April 7, 2026</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-04-07.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-04-07.md</guid>
-      <pubDate>Mon, 07 Apr 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI closes $122B at $852B valuation. Anthropic discovers functional "emotions" in Claude that causally drive behavior. Google releases Gemma 4 under Apache 2.0. Money, safety, openness, the three axes of AI competition all move forward.</description>
+      <title>AI Industry Daily Digest - 2026-04-19</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-19.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-19.md</guid>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 19 Editor's Note : The biggest story today is not another incremental jump in model performance. It is that leading labs are embedding AI more directly into high value professional workfl</description>
     </item>
     <item>
-      <title>AI Industry Daily - March 30, 2026</title>
-      <link>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-30.md</link>
-      <guid>https://github.com/Elarwei001/tech-news/blob/master/ai-news/en/2026-03-30.md</guid>
-      <pubDate>Sun, 30 Mar 2026 08:00:00 +0800</pubDate>
-      <description>OpenAI's Model Spec explained. Safety Bug Bounty launched. Anthropic's Economic Index shows experienced users unlock more value. DeepMind proposes cognitive framework for measuring AGI.</description>
+      <title>AI Industry Daily Digest - 2026-04-18</title>
+      <link>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-18.md</link>
+      <guid>https://github.com/Elarwei001/tech-news/blob/master/en/2026-04-18.md</guid>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 GMT</pubDate>
+      <description>AI Industry Daily Digest 2026 04 18 Editor's Note : The most important shift today is not that another company shipped another model. It is that leading AI firms are pushing beyond generation into delivery. Anthropic is </description>
     </item>
   </channel>
 </rss>
