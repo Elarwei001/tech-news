@@ -3,10 +3,10 @@
   "scope": "Backfill AI News 2026-05-07 through 2026-05-15 and RSS rebuild",
   "findings": [
     "Backfilled missing zh/en digest files for 2026-05-07..2026-05-15.",
-    "Backfilled one concise Chinese translation-note file per missing date; these are not full official-article translations.",
+    "Expanded the 2026-05-07..2026-05-15 headline translation files from short notes into fuller Chinese translation/translation-digest files based on official first-party pages.",
     "RSS feeds previously stopped at 2026-04-30; rebuilt feeds now point to root zh/ and en/ paths and include latest 30 entries.",
     "Quality concern: existing early-May files sometimes reuse prior sources; future runs should prefer explicit no-new-official-news notes on quiet days instead of implying fresh releases.",
-    "Quality caveat: full-source translations remain a future improvement if the digest must strictly satisfy the original full-translation workflow."
+    "Quality caveat: these translations are fuller readable translations from fetched official pages, but should still be treated as translation digests where the source extractor may omit page chrome or late-loaded sections."
   ],
   "sourcePolicy": "First-party official sources only; no Reuters/WSJ/Verge/TechCrunch style third-party reporting used.",
   "score": {
@@ -14,6 +14,6 @@
     "structure": 90,
     "depth": 86,
     "rssRepair": 96,
-    "translationCoverage": 72
+    "translationCoverage": 88
   }
 }
