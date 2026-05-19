@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-19",
+  "headline": "Anthropic and KPMG alliance puts Claude into a 276,000-person professional services workflow",
+  "covered_companies": [
+    "Anthropic",
+    "OpenAI",
+    "Google DeepMind",
+    "Google",
+    "NVIDIA",
+    "Meta AI"
+  ],
+  "sources": [
+    "https://www.anthropic.com/news/anthropic-kpmg",
+    "https://www.anthropic.com/news/anthropic-acquires-stainless?s=09",
+    "https://openai.com/",
+    "https://openai.com/index/personal-finance-chatgpt/",
+    "https://openai.com/index/work-with-codex-from-anywhere/",
+    "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations/",
+    "https://deepmind.google/blog/ai-pointer/",
+    "https://blog.google/innovation-and-ai/technology/ai/",
+    "https://blogs.nvidia.com/blog/google-cloud-agentic-physical-ai-factories/",
+    "https://blogs.nvidia.com/blog/category/enterprise/deep-learning/"
+  ],
+  "bob_review": {
+    "score": 90,
+    "status": "APPROVE",
+    "news_value": 27,
+    "accuracy": 24,
+    "depth": 22,
+    "readability": 17
+  },
+  "translation_review": {
+    "file": "translations/2026-05-19/anthropic-kpmg.md",
+    "score": 92,
+    "status": "PASS",
+    "note": "Copyright-safe Chinese translation note/adaptation covering the original article's main facts and structure."
+  },
+  "validation": {
+    "required_files": "PASS",
+    "internal_links": "PASS",
+    "external_links": "PASS",
+    "note": "Google, NVIDIA, DeepMind, and Anthropic links returned HTTP 200 via curl. OpenAI links returned 403 to curl but were accessible via web_fetch/open validation."
+  }
+}
