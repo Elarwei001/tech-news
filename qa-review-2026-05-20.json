@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-20",
+  "headline": "Google turns Gemini 3.5, Omni, and Co-Scientist into a full agentic AI product matrix",
+  "covered_companies": [
+    "Google DeepMind",
+    "Google",
+    "Anthropic",
+    "OpenAI",
+    "NVIDIA",
+    "Meta AI"
+  ],
+  "sources": [
+    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+    "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
+    "https://www.anthropic.com/news/widening-conversation-ai",
+    "https://www.anthropic.com/news/anthropic-kpmg",
+    "https://openai.com/index/dell-codex-enterprise-partnership/",
+    "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
+    "https://ai.meta.com/blog/"
+  ],
+  "bob_review": {
+    "score": 91,
+    "status": "APPROVE",
+    "news_value": 28,
+    "accuracy": 24,
+    "depth": 23,
+    "readability": 16
+  },
+  "translation_review": {
+    "file": "translations/2026-05-20/co-scientist.md",
+    "score": 93,
+    "status": "PASS",
+    "note": "Copyright-safe Chinese translation note/adaptation covering the original article's main structure, facts, system mechanics, validation cases, and access plan."
+  },
+  "validation": {
+    "required_files": "PASS",
+    "internal_links": "PASS",
+    "external_links": "PASS",
+    "rss": "PASS",
+    "note": "Google, DeepMind, NVIDIA, Anthropic, and Meta links returned HTTP 200 via curl. The OpenAI Dell link returned 403 to curl but was accessible through web validation."
+  }
+}
