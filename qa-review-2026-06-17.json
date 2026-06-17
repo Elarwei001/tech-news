@@ -1,0 +1,51 @@
+{
+  "editorial_review": {
+    "reviewer": "Bob Dillen",
+    "review_date": "2026-06-17",
+    "article_date": "2026-06-17"
+  },
+  "scores": {
+    "news_value": {
+      "score": 28,
+      "max": 30,
+      "notes": "选题覆盖 Anthropic、OpenAI、NVIDIA、Google DeepMind 的最新一手来源，头条聚焦 agent 时代劳动分工，新闻价值高。"
+    },
+    "accuracy": {
+      "score": 24,
+      "max": 25,
+      "notes": "关键数字均来自官方页面；未使用第三方媒体。Google DeepMind 部分为月度新闻页归纳，已避免写成具体日内发布。"
+    },
+    "analysis_depth": {
+      "score": 24,
+      "max": 25,
+      "notes": "将专业知识、部署模拟和企业基础设施三条线合并为 agent stack 观察，有明确判断。"
+    },
+    "readability": {
+      "score": 19,
+      "max": 20,
+      "notes": "结构清晰，中英版本一致，来源链接完整。"
+    }
+  },
+  "total_score": 95,
+  "verdict": "APPROVE",
+  "feedback_to_alex": "稿件事实扎实，分析线索统一。注意译文文件采用版权合规译读，不应标注为逐字全文翻译。",
+  "revision_required": [],
+  "translation_review": {
+    "reviewer": "Colly Markus",
+    "translator": "Alice Larry",
+    "article_title": "Agentic coding and persistent returns to expertise",
+    "completeness_check": {
+      "is_complete_as_digest": true,
+      "is_verbatim_full_translation": false,
+      "notes": "由于版权边界，产物为完整结构译读而非全文逐字翻译。"
+    },
+    "quality_scores": {
+      "accuracy": { "score": 37, "max": 40, "issues": [] },
+      "fluency": { "score": 28, "max": 30, "issues": [] },
+      "style": { "score": 18, "max": 20, "issues": [] },
+      "formatting": { "score": 9, "max": 10, "issues": [] }
+    },
+    "total_score": 92,
+    "verdict": "PASS"
+  }
+}
