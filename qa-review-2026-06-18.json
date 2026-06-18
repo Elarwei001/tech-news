@@ -1,0 +1,31 @@
+{
+  "date": "2026-06-18",
+  "editorial_review": {
+    "reviewer": "Bob Dillen",
+    "score": 91,
+    "status": "APPROVE",
+    "notes": [
+      "Headline selection is newsworthy and supported by first-party OpenAI source.",
+      "Coverage includes OpenAI, Anthropic, Google DeepMind/Google AI, and NVIDIA.",
+      "Analysis goes beyond summary and ties sources into a coherent closed-loop thesis.",
+      "No third-party media sources were used."
+    ]
+  },
+  "translation_review": {
+    "reviewer": "Colly Markus",
+    "status": "PASS_WITH_COPYRIGHT_NOTE",
+    "score": 93,
+    "completeness": "Structured translated digest, not full article translation",
+    "notes": [
+      "The translation artifact preserves key claims, numbers, method, limitations, and safety framing.",
+      "It is intentionally not a full verbatim translation of the source article for copyright compliance.",
+      "Markdown format and relative links are valid."
+    ]
+  },
+  "sources_policy": {
+    "status": "PASS",
+    "notes": [
+      "All cited sources are first-party official pages from OpenAI, Anthropic, Google DeepMind, and NVIDIA."
+    ]
+  }
+}
