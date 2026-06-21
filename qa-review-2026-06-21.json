@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-21",
+  "editorial_review": {
+    "reviewer": "Bob Dillen",
+    "score": 90,
+    "status": "APPROVE",
+    "notes": [
+      "Headline selection is newsworthy despite no same-day blockbuster release: Google DeepMind's UK planning prototype shows AI entering public-sector workflow.",
+      "The edition clearly states the Singapore-time publication boundary and does not present older official updates as June 21 launches.",
+      "Coverage includes Google DeepMind/Google AI, OpenAI, Anthropic, and NVIDIA using first-party sources only.",
+      "Analysis ties government process, enterprise cost governance, physical agents, multi-agent safety, and infrastructure into a coherent slow-systems thesis."
+    ]
+  },
+  "translation_review": {
+    "reviewer": "Colly Markus",
+    "status": "PASS_WITH_COPYRIGHT_NOTE",
+    "score": 94,
+    "completeness": "Structured translated digest, not full article translation",
+    "notes": [
+      "The translation artifact preserves the source article's central facts, numbers, rollout plan, human-control boundary, and auditability framing.",
+      "It is intentionally not a full verbatim translation of the source article for copyright compliance.",
+      "Markdown format is valid and the daily article uses the correct ../translations/ relative path."
+    ]
+  },
+  "sources_policy": {
+    "status": "PASS",
+    "notes": [
+      "All cited sources are first-party official pages from Google DeepMind, OpenAI, Anthropic, and NVIDIA.",
+      "External links were checked; OpenAI links returned 403 to curl due bot protection but were accessible through browser fetch."
+    ]
+  }
+}
