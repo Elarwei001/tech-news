@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-22",
+  "editorial_review": {
+    "reviewer": "Bob Dillen",
+    "score": 91,
+    "status": "APPROVE",
+    "notes": [
+      "Headline selection is timely and first-party: OpenAI published the Samsung Electronics deployment on 2026-06-21, the newest major official source available by 2026-06-22 08:00 SGT.",
+      "The edition clearly frames broader company coverage as recent official context, not as same-day launches.",
+      "Coverage includes OpenAI, Anthropic, Google DeepMind/Google AI, and NVIDIA using official first-party sources only.",
+      "Analysis goes beyond summary by connecting enterprise rollout, spend controls, Korea ecosystem competition, agent governance, latency, and infrastructure."
+    ]
+  },
+  "translation_review": {
+    "reviewer": "Colly Markus",
+    "status": "PASS_WITH_COPYRIGHT_NOTE",
+    "score": 95,
+    "completeness": "Structured translated digest covering the full source article's factual scope",
+    "notes": [
+      "The translation artifact preserves the source article's key facts, deployment scope, use cases, ecosystem context, and strategic implications.",
+      "It is intentionally written as a translated digest rather than a full verbatim translation for copyright compliance.",
+      "Markdown format is valid and the daily article uses the correct ../translations/ relative path."
+    ]
+  },
+  "sources_policy": {
+    "status": "PASS",
+    "notes": [
+      "All cited sources are first-party official pages from OpenAI, Anthropic, Google DeepMind/Google, and NVIDIA.",
+      "No third-party media reports were cited or used as factual sources."
+    ]
+  }
+}
