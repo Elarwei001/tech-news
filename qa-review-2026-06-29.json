@@ -1,0 +1,27 @@
+{
+  "date": "2026-06-29",
+  "workflow": "ai-news-digest",
+  "mode": "single-session-no-subagents",
+  "editorial_review": {
+    "reviewer": "Bob Dillen",
+    "score": 90,
+    "status": "approved",
+    "notes": [
+      "No major first-party release was found for the exact Monday morning window.",
+      "Digest clearly states the timing caveat and uses recent official sources only.",
+      "The headline analysis connects agentic work, usage cadences, on-device inference, and local infrastructure."
+    ]
+  },
+  "translation_review": {
+    "translator": "Alice Larry",
+    "reviewer": "Colly Markus",
+    "score": 93,
+    "status": "pass",
+    "file": "translations/2026-06-29/openai-how-agents-are-transforming-work.md",
+    "note": "Structured translated digest used for copyright compliance rather than a verbatim full-text translation."
+  },
+  "sources_policy": {
+    "first_party_only": true,
+    "third_party_media_used": false
+  }
+}
